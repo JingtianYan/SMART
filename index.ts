@@ -239,3 +239,15 @@ export async function run({
     },
   };
 }
+
+// ─── Mock Vicon (JSON trajectory replay) ───────────────────────────────────
+
+export type { TickAgent, TrajectoryRecord } from "./trajectory";
+export {
+  getOrientationFromMovement,
+  remapOrientation,
+  resolveOrientation,
+  toArgosCoords,
+  toRz,
+} from "./trajectory";
+export { runVicon } from "./vicon";
