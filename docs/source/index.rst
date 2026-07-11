@@ -61,6 +61,7 @@ SMART: Scalable Multi-Agent Realistic Testbed
        <div class="feature-grid">
          <article><span>01</span><div class="feature-media feature-media--asset"><img src="_static/media/robust_execution.gif" alt="SMART robust multi-robot execution under delays and uncertainty"></div><h3>Robust execution</h3><p>Account for delays and uncertainty while preserving collision-free execution through ADG monitoring.</p></article>
          <article><span>02</span><div class="feature-media feature-media--asset"><img src="_static/media/scalable-smart.gif" alt="SMART simulation scaling to thousands of coordinated robots"></div><h3>Scalable experiments</h3><p>Move from small debugging scenarios to stress tests involving thousands of coordinated agents.</p></article>
+         <article><span>03</span><div class="feature-media feature-media--asset"><video autoplay muted loop playsinline preload="metadata" aria-label="SMART support for multiple maps and MAPF planners"><source src="_static/media/smart_maps_support.mp4" type="video/mp4"></video></div><h3>Broad planner &amp; map support</h3><p>Evaluate different MAPF planners across benchmark, warehouse, and custom maps through a consistent simulation interface.</p></article>
        </div>
      </section>
 
