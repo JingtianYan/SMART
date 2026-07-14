@@ -11,8 +11,8 @@ SMART: Scalable Multi-Agent Realistic Testbed
        </video>
        <h1>Advancing MAPF Toward the Real World: A Scalable Multi-Agent Realistic Testbed<br><span>(SMART)</span></h1>
        <p class="paper-authors">
-         Jingtian Yan<sup>1</sup>, Zhifei Li<sup>1</sup>, William Kang<sup>1</sup>, Kevin Zheng<sup>1</sup>, Yulun Zhang<sup>1</sup>,<br>
-         Zhe Chen<sup>1</sup>, Yue Zhang<sup>1</sup>, Daniel Harabor<sup>2</sup>, Stephen F. Smith<sup>1</sup>, Jiaoyang Li<sup>1</sup>
+         Jingtian Yan<sup>1</sup>, Zhifei Li<sup>1</sup>, William Kang<sup>1</sup>, Kevin Zheng<sup>2</sup>, Yulun Zhang<sup>1</sup>,<br>
+         Zhe Chen<sup>2</sup>, Yue Zhang<sup>2</sup>, Daniel Harabor<sup>2</sup>, Stephen F. Smith<sup>1</sup>, Jiaoyang Li<sup>1</sup>
        </p>
        <p class="paper-affiliations"><sup>1</sup>Carnegie Mellon University &nbsp;&nbsp; <sup>2</sup>Monash University</p>
        <p class="publication-title">IEEE Robotics and Automation Letters, vol. 11, no. 6, pp. 7428-7435, 2026</p>
